@@ -64,5 +64,3 @@ java -cp src Task3_BankSimulation.Main
 
 
 ---
-
-Save this file as **`README.md`** in your root directory[cite: 2, 9]. Once created, let me know if you want the exact Git terminal commands to push everything to GitHub!
